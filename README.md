@@ -2,7 +2,8 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+Hello guys, my name is Casper and I'm a beginning programmer. 
+On my GitHub page you can find my programming progression. 
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
